@@ -1,0 +1,28 @@
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+font-family: sans-serif;
+}
+
+.input{
+    width: 290px;
+    height: 40px;
+    margin-left: 550px;
+    margin-top: 300px;
+}
+#btn{
+    background-color: red;
+    width: 100px;
+    height: 40px;
+    border: 1px solid transparent;
+    margin-left: 650px;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: -100px;
+    position: absolute;
+}
+#h1{
+    margin-left: 680px;
+    margin-top: -100px;
+}
